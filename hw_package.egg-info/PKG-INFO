@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: hw-package
+Version: 0.0.1
+Summary: Package from Python Packaging Exercise
+Home-page: https://gitlab.mimuw.edu.pl/python-tools/python-packaging-exercise
+Author: Magdalena Rajtor
+Author-email: m.rajtor@student.uw.edu.pl
+License: BSD-3-Clause
+Platform: UNKNOWN
+Requires-Python: >=3.6
+
+Homework
+########
+
+Make ``homework_exercise`` package ``pip`` installable.
+After bundle with ``python setup.py sdist`` archive should contain every files need to use package.
+Remember to declare all package dependencies.
+
+
+
